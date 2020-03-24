@@ -12,10 +12,6 @@ Speech Recognizer
 
 https://developer.android.com/reference/android/speech/SpeechRecognizer
 
-TextToSpeech
-
-https://developer.android.com/reference/android/speech/tts/TextToSpeech
-
 開発環境
 
 Android Studio
