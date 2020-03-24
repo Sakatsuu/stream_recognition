@@ -14,7 +14,7 @@ https://developer.android.com/reference/android/speech/SpeechRecognizer
 
 開発環境
 
-Android Studio
+Android Studio（Version 3.4)
 
 使用機器
 
